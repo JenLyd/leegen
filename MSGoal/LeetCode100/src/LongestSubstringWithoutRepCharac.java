@@ -1,5 +1,6 @@
 import java.util.*;
-
+//problem is tricky when it comes to finding without the repeating characters
+//for example str = "bbbb", the answer should be 1
  public  class LongestSubstringWithoutRepCharac {
 		
 	 static int longestSubstr(String s) {
