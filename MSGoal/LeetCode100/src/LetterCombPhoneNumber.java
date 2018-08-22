@@ -1,6 +1,7 @@
 
 import java.util.*;
-
+/*Input: "23"
+Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].*/
 public class LetterCombPhoneNumber {
 
 	public static List<String> letterComb(String str) {
